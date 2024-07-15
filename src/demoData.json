@@ -1,0 +1,169 @@
+{
+    "Product": [
+        {
+            "Product": "Chai",
+            "ID": "1",
+            "UnitPrice": "18",
+            "QtyPerUnit": "10 boxes x 20 bags",
+            "InStock": "39 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "10 units",
+            "Discontinued": "",
+            "Category": "Beverages - Soft drinks, coffees, teas, beers, and ales"
+        },
+        {
+            "Product": "Chang",
+            "ID": "2",
+            "UnitPrice": "19",
+            "QtyPerUnit": "24 - 12 oz bottles",
+            "InStock": "17 units",
+            "OnOrder": "40 units",
+            "ReorderLevel": "25 units",
+            "Discontinued": "",
+            "Category": "Beverages - Soft drinks, coffees, teas, beers, and ales"
+        },
+        {
+            "Product": "Aniseed Syrup",
+            "ID": "3",
+            "UnitPrice": "10",
+            "QtyPerUnit": "12 - 550 ml bottles",
+            "InStock": "13 units",
+            "OnOrder": "70 units",
+            "ReorderLevel": "25 units",
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Chef Anton's Cajun Seasoning",
+            "ID": "4",
+            "UnitPrice": "32",
+            "QtyPerUnit": "48 - 6 oz jars",
+            "InStock": "53 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "0 units",
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Chef Anton's Gumbo Mix",
+            "ID": "5",
+            "UnitPrice": "21.35",
+            "QtyPerUnit": "36 boxes",
+            "InStock": "0 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "0 units",
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Grandma's Boysenberry Spread",
+            "ID": "6",
+            "UnitPrice": "25",
+            "QtyPerUnit": "12 - 8 oz jars",
+            "InStock": "120 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "25 units",
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Uncle Bob's Organic Dried Pears",
+            "ID": "7",
+            "UnitPrice": "30",
+            "QtyPerUnit": "12 - 1 lb pkgs.",
+            "InStock": "15 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "10 units",
+            "Discontinued": "",
+            "Category": "Produce - Dried fruit and bean curd"
+        },
+        {
+            "Product": "Northwoods Cranberry Sauce",
+            "ID": "8",
+            "UnitPrice": "40",
+            "QtyPerUnit": "12 - 12 oz jars",
+            "InStock": "6 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "0 units",
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        },
+        {
+            "Product": "Mishi Kobe Niku",
+            "ID": "9",
+            "UnitPrice": "97",
+            "QtyPerUnit": "18 - 500 g pkgs.",
+            "InStock": "29 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "0 units",
+            "Discontinued": "",
+            "Category": "Meat/Poultry - Prepared meats"
+        },
+        {
+            "Product": "Ikura",
+            "ID": "10",
+            "UnitPrice": "31",
+            "QtyPerUnit": "12 - 200 ml jars",
+            "InStock": "31 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "0 units",
+            "Discontinued": "",
+            "Category": "Seafood - Seaweed and fish"
+        },
+        {
+            "Product": "Queso Cabrales",
+            "ID": "11",
+            "UnitPrice": "21",
+            "QtyPerUnit": "1 kg pkg.",
+            "InStock": "22 units",
+            "OnOrder": "30 units",
+            "ReorderLevel": "30 units",
+            "Discontinued": "",
+            "Category": "Dairy Products - Cheeses"
+        },
+        {
+            "Product": "Queso Manchego La Pastora",
+            "ID": "12",
+            "UnitPrice": "38",
+            "QtyPerUnit": "10 - 500 g pkgs.",
+            "InStock": "86 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "0 units",
+            "Discontinued": "",
+            "Category": "Dairy Products - Cheeses"
+        },
+        {
+            "Product": "Konbu",
+            "ID": "13",
+            "UnitPrice": "6",
+            "QtyPerUnit": "2 kg box",
+            "InStock": "24 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "5 units",
+            "Discontinued": "",
+            "Category": "Seafood - Seaweed and fish"
+        },
+        {
+            "Product": "Tofu",
+            "ID": "14",
+            "UnitPrice": "23.25",
+            "QtyPerUnit": "40 - 100 g pkgs.",
+            "InStock": "35 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "0 units",
+            "Discontinued": "",
+            "Category": "Produce - Dried fruit and bean curd"
+        },
+        {
+            "Product": "Genen Shouyu",
+            "ID": "15",
+            "UnitPrice": "15.5",
+            "QtyPerUnit": "24 - 250 ml bottles",
+            "InStock": "39 units",
+            "OnOrder": "0 units",
+            "ReorderLevel": "5 units",
+            "Discontinued": "",
+            "Category": "Condiments - Sweet and savory sauces, relishes, spreads, and seasonings"
+        }
+    ]
+}
